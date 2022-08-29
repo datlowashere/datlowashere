@@ -5,6 +5,6 @@
     <img src="https://komarev.com/ghpvc/?username=datlowashere&style=flat-square" alt="datlowashere">
 </a></p>
 <div align="center">
-<img align="left" width="300px" src="https://github-readme-stats.vercel.app/api?username=datlowashere&show_icons=true" alt="datlowashere :: Profile Stats" />
-<img align="right" height="150px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=datlowashere&langs_count=10&layout=compact" alt="datlowashere :: Top Langs" />
+<img align="left" width="60%" src="https://github-readme-stats.vercel.app/api?username=datlowashere&show_icons=true" alt="datlowashere :: Profile Stats" />
+<img align="right" height="30%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=datlowashere&langs_count=10&layout=compact" alt="datlowashere :: Top Langs" />
 </div>
