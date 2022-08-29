@@ -1,8 +1,8 @@
 <div align="center">
 <img src="https://github.com/datlowashere/datlowashere/blob/main/btn.png" alt="banner">
 </div>
-<p align="center"><a href="https://github.com/datlowashere">
-    <img src="https://komarev.com/ghpvc/?username=datlowashere&style=flat-square" alt="datlowashere">
+<p align="center" ><a href="https://github.com/datlowashere">
+    <img style="margin:30px ; "  src="https://komarev.com/ghpvc/?username=datlowashere&style=flat-square" alt="datlowashere">
 </a></p>
 <div align="center">
 <img align="left" width="50%%" src="https://github-readme-stats.vercel.app/api?username=datlowashere&show_icons=true" alt="datlowashere :: Profile Stats" />
