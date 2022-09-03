@@ -1,12 +1,14 @@
 <div align="center">
 <img src="https://github.com/datlowashere/datlowashere/blob/main/flora-branches-spring-pink-flowers-bloom-cherry-blossom.jpg" alt="banner">
 </div>
-<h1 align="center">Hi guys, I'm Đạt <img src="https://github.com/datlowashere/datlowashere/blob/main/shaka.gif" alt="handshake" width="4%"> </h1>
-<h3 align="center"></h3>
+<h2 align="left">♾️ About me:</h2>
+<h2 align="center">Hi guys, I'm Đạt <img src="https://github.com/datlowashere/datlowashere/blob/main/shaka.gif" alt="handshake" width="4%">, i'm a newbie coder</h2>
 <p align="center" ><a href="https://github.com/datlowashere">
     <img style="for-the-badge "  src="https://komarev.com/ghpvc/?username=datlowashere&style=for-the-badge&color=orange" alt="datlowashere">
 </a></p>
+<br>
 <div align="center">
+<h2 align="left">🔥 GitHub Stats:</h2>
 <img align="left" width="50%%" src="https://github-readme-stats.vercel.app/api?username=datlowashere&show_icons=true&theme=codeSTACKr" alt="datlowashere :: Profile Stats" />
 <img align="right" height="30%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=datlowashere&langs_count=10&layout=compact&theme=codeSTACKr" alt="datlowashere :: Top Langs" />
 </div>
