@@ -1,4 +1,4 @@
-<div align="center">
+<div align="right">
 <img src="https://github.com/datlowashere/datlowashere/blob/main/flowerfall.svg" alt="banner">
 </div>
 <h2 align="left">♾️ About me:</h2>
