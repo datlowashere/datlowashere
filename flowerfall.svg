@@ -26,13 +26,16 @@
             animation-iteration-count: infinite;
           }
           @keyframes blossom-fall {
-            100% {
-              top: 100%;
+           100%{
+                transform: rotate(-105deg) translateY(0);
+
             }
           }
           @keyframes blossom-shake {
-            50% {
-              transform: translateX(80px);
+     
+            50%{
+                transform: rotate(-105deg) translateY(calc(100vh +20px));
+
             }
           }
 			</style>
