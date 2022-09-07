@@ -9,6 +9,6 @@
 <br>
 <div align="center">
 <h2 align="left">🔥 GitHub Stats:</h2>
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=datlowashere&show_icons=true&theme=codeSTACKr" alt="datlowashere :: Profile Stats" />
-<img align="right" height="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=datlowashere&langs_count=10&layout=compact&theme=codeSTACKr" alt="datlowashere :: Top Langs" />
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=datlowashere&show_icons=true&theme=codeSTACKr" alt="datlowashere :: Profile Stats" />
+<img align="right" width="44%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=datlowashere&langs_count=10&layout=compact&theme=codeSTACKr" alt="datlowashere :: Top Langs" />
 </div>
