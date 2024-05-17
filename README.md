@@ -1,12 +1,45 @@
 <p align="center">
+<p>Hello world 👋, I'm Đạt</p>
 <img src="https://github.com/datlowashere/datlowashere/blob/main/flowerfall.svg" alt="banner" width="100%" height="100%">
 </p>
 <p align="center" ><a href="https://github.com/datlowashere">
     <img style="for-the-badge "  src="https://komarev.com/ghpvc/?username=datlowashere&style=for-the-badge&color=orange" alt="datlowashere">
 </a></p>
 <br>
+
+## 🔍 Find me on:
+<p align="center">
+  <a href="https://www.facebook.com/datlowashere" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook" height="32" style="vertical-align:top; margin:4px;">
+  </a>
+  <a href="https://www.instagram.com/datlowashere/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" height="32" style="vertical-align:top; margin:4px;">
+  </a>
+  <a href="https://twitter.com/datlowashere" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/?size=48&id=phOKFKYpe00C&format=png" alt="Twitter" height="32" style="vertical-align:top; margin:4px;">
+  </a>
+</p>
+
+## 🧰 Languages and Tools:
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="40" style="margin: 4px;">
+  <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" height="40" style="margin: 4px;">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" height="40" style="margin: 4px;">
+  <img src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="NodeJS" height="40" style="margin: 4px;">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" height="40" style="margin: 4px;">
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" height="40" style="margin: 4px;">
+  <img src="https://img.icons8.com/ultraviolet/40/000000/react.png" alt="React Native" height="40" style="margin: 4px;">
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" height="40" style="margin: 4px;">
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" height="40" style="margin: 4px;">
+  <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" height="40" style="margin: 4px;">
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" height="40" style="margin: 4px;">
+  <img src="https://img.icons8.com/color/48/000000/android-studio.png" alt="Android Studio" height="40" style="margin: 4px;">
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" height="40" style="margin: 4px;">   
+</p>
+
+
 <div align="center">
-<h2 align="left">🔥 GitHub Stats:</h2>
+<!-- <h3 align="left">🔥 GitHub Stats:</h3>
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=datlowashere&show_icons=true&theme=codeSTACKr" alt="datlowashere :: Profile Stats" />
-<img align="right" width="44%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=datlowashere&langs_count=10&layout=compact&theme=codeSTACKr" alt="datlowashere :: Top Langs" />
+<img align="right" width="44%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=datlowashere&langs_count=10&layout=compact&theme=codeSTACKr" alt="datlowashere :: Top Langs" /> -->
 </div>
