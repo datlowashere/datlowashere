@@ -26,11 +26,6 @@
   <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" height="40" style="margin: 4px;">
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" height="40" style="margin: 4px;">
   <img src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="NodeJS" height="40" style="margin: 4px;">
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" height="40" style="margin: 4px;">
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" height="40" style="margin: 4px;">
-  <img src="https://img.icons8.com/ultraviolet/40/000000/react.png" alt="React Native" height="40" style="margin: 4px;">
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" height="40" style="margin: 4px;">
-  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" height="40" style="margin: 4px;">
   <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" height="40" style="margin: 4px;">
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" height="40" style="margin: 4px;">
   <img src="https://img.icons8.com/color/48/000000/android-studio.png" alt="Android Studio" height="40" style="margin: 4px;">
