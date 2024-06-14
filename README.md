@@ -1,5 +1,5 @@
 <p align="center">
-<p>Hello world 👋, I'm Đạt. Mobile Developer is the destination that i pursue!</p>
+<p>Hello world 👋, I'm Đạt. Mobile Developer is the destination that I've been pursuing!</p>
 <img src="https://github.com/datlowashere/datlowashere/blob/main/flowerfall.svg" alt="banner" width="100%" height="100%">
 </p>
 <p align="center" ><a href="https://github.com/datlowashere">
