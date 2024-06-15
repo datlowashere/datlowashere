@@ -18,6 +18,9 @@
   <a href="https://twitter.com/datlowashere" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/?size=48&id=phOKFKYpe00C&format=png" alt="Twitter" height="32" style="vertical-align:top; margin:4px;">
   </a>
+      <a href="https://www.linkedin.com/in/datlowashere/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png" alt="Linkedin" height="32" style="vertical-align:top; margin:4px;">
+  </a>
 </p>
 
 ## 🧰 Languages and Tools:
