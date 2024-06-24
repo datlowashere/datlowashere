@@ -7,21 +7,21 @@
 </a></p>
 <br>
 
-## 🔍 Find me on:
-<p align="center">
-  <a href="https://www.facebook.com/datlowashere" target="_blank" rel="noopener noreferrer">
+<!-- ## 🔍 Find me on: -->
+<!-- <p align="center">-->
+<!--   <a href="https://www.facebook.com/datlowashere" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook" height="32" style="vertical-align:top; margin:4px;">
-  </a>
+  </a> -->
 <!--   <a href="https://www.instagram.com/datlowashere/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" height="32" style="vertical-align:top; margin:4px;">
   </a> -->
-  <a href="https://twitter.com/datlowashere" target="_blank" rel="noopener noreferrer">
+<!--   <a href="https://twitter.com/datlowashere" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/?size=48&id=phOKFKYpe00C&format=png" alt="Twitter" height="32" style="vertical-align:top; margin:4px;">
-  </a>
+  </a> -->
 <!--       <a href="https://www.linkedin.com/in/datlowashere/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png" alt="Linkedin" height="32" style="vertical-align:top; margin:4px;">
   </a> -->
-</p>
+<!-- </p> -->
 
 ## 🧰 Languages and Tools:
 <p align="center">
