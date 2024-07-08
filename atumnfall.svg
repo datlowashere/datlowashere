@@ -1,0 +1,258 @@
+<svg fill="none" viewBox="0 0 1200 750" width="1200" height="750"  xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+    <style>
+        .branch{
+            position: absolute;
+            top: -100px;
+            right: -40px;
+        }
+        .leaf{
+            position: absolute;
+            top: -20px;
+        }
+        .leaves:nth-child(1) .leaf {
+            left: 10%;
+            width: 40px;
+            height: 40px;
+        }
+                
+        .leaves:nth-child(2) .leaf {
+            left: 10%;
+            width: 60px;
+            height: 60px;
+        }
+                           
+        @keyframes fall {
+            0% {
+                transform: translateY(0) rotate(0deg);
+                opacity: 1;
+            }
+            100% {
+                transform: translateY(100vh) rotate(360deg);
+                opacity: 1;
+            }
+        }
+        
+        .leaf {
+            position: absolute;
+            width: 20px;
+            height: 20px;
+            animation: fall linear infinite;
+        }
+        
+        .leaves:nth-child(1) .leaf {
+            left: 10%;
+            animation-duration: 5s;
+            animation-delay: 0s;
+        }
+        
+        .leaves:nth-child(2) .leaf {
+            left: 20%;
+            animation-duration: 4.5s;
+            animation-delay: 1s;
+        }
+        
+        .leaves:nth-child(3) .leaf {
+            left: 30%;
+            animation-duration: 6s;
+            animation-delay: 0.5s;
+        }
+        
+        .leaves:nth-child(4) .leaf {
+            left: 40%;
+            animation-duration: 5.5s;
+            animation-delay: 1.5s;
+        }
+        
+        .leaves:nth-child(5) .leaf {
+            left: 50%;
+            animation-duration: 5s;
+            animation-delay: 2s;
+        }
+        
+        .leaves:nth-child(6) .leaf {
+            left: 60%;
+            animation-duration: 4.5s;
+            animation-delay: 0.5s;
+        }
+        
+        .leaves:nth-child(7) .leaf {
+            left: 70%;
+            animation-duration: 6s;
+            animation-delay: 1s;
+        }
+        
+        .leaves:nth-child(8) .leaf {
+            left: 80%;
+            animation-duration: 5.5s;
+            animation-delay: 1.5s;
+        }
+        
+        .leaves:nth-child(9) .leaf {
+            left: 90%;
+            animation-duration: 5s;
+            animation-delay: 0.5s;
+        }
+        
+        .leaves:nth-child(10) .leaf {
+            left: 92%;
+            animation-duration: 4.5s;
+            animation-delay: 1s;
+        }
+        .leaves:nth-child(11) .leaf {
+            left: 15%;
+            animation-duration: 6s;
+            animation-delay: 1s;
+        }
+
+        .leaves:nth-child(12) .leaf {
+            left: 25%;
+            animation-duration: 5.5s;
+            animation-delay: 0.5s;
+        }
+
+        .leaves:nth-child(13) .leaf {
+            left: 35%;
+            animation-duration: 5s;
+            animation-delay: 1.5s;
+        }
+
+        .leaves:nth-child(14) .leaf {
+            left: 45%;
+            animation-duration: 4.5s;
+            animation-delay: 1s;
+        }
+
+        .leaves:nth-child(15) .leaf {
+            left: 55%;
+            animation-duration: 6s;
+            animation-delay: 0s;
+        }
+
+        .leaves:nth-child(16) .leaf {
+            left: 65%;
+            animation-duration: 5.5s;
+            animation-delay: 0.5s;
+        }
+
+        .leaves:nth-child(17) .leaf {
+            left: 75%;
+            animation-duration: 5s;
+            animation-delay: 1s;
+        }
+
+        .leaves:nth-child(18) .leaf {
+            left: 85%;
+            animation-duration: 6s;
+            animation-delay: 0.5s;
+        }
+
+        .leaves:nth-child(19) .leaf {
+            left: 92%;
+            animation-duration: 5.5s;
+            animation-delay: 1.5s;
+        }
+
+        .leaves:nth-child(20) .leaf {
+            left: 98%;
+            animation-duration: 4.5s;
+            animation-delay: 1s;
+        }
+        .leaves:nth-child(21) .leaf {
+            left: 12%;
+            animation-duration: 5s;
+            animation-delay: 1s;
+        }
+
+        .leaves:nth-child(22) .leaf {
+            left: 22%;
+            animation-duration: 4.5s;
+            animation-delay: 0s;
+        }
+
+        .leaves:nth-child(23) .leaf {
+            left: 32%;
+            animation-duration: 6s;
+            animation-delay: 0.5s;
+        }
+
+        .leaves:nth-child(24) .leaf {
+            left: 42%;
+            animation-duration: 5.5s;
+            animation-delay: 1.5s;
+        }
+
+        .leaves:nth-child(25) .leaf {
+            left: 52%;
+            animation-duration: 5s;
+            animation-delay: 2s;
+        }
+
+        .leaves:nth-child(26) .leaf {
+            left: 62%;
+            animation-duration: 4.5s;
+            animation-delay: 0.5s;
+        }
+
+        .leaves:nth-child(27) .leaf {
+            left: 72%;
+            animation-duration: 6s;
+            animation-delay: 1s;
+        }
+
+        .leaves:nth-child(28) .leaf {
+            left: 82%;
+            animation-duration: 5.5s;
+            animation-delay: 1.5s;
+        }
+
+        .leaves:nth-child(29) .leaf {
+            left: 88%;
+            animation-duration: 5s;
+            animation-delay: 0.5s;
+        }
+
+        .leaves:nth-child(30) .leaf {
+            left: 94%;
+            animation-duration: 4.5s;
+            animation-delay: 1s;
+        }
+        
+    </style>
+
+    <div class="branch"><img src="https://res.cloudinary.com/datlowashere/image/upload/v1720451854/datlowashere/autumn/mz0ikvrkim8zl4reenvu.png" alt=""/></div>
+    <div class="leaves"><img class="leaf" src="https://res.cloudinary.com/datlowashere/image/upload/v1720451854/datlowashere/autumn/wjmmga0hh0q4ptt05n45.png" alt=""/></div>
+    <div class="leaves"><img class="leaf" src="https://res.cloudinary.com/datlowashere/image/upload/v1720451854/datlowashere/autumn/zuruddkkdgtnxoqp113t.png" alt=""/></div>
+    <div class="leaves"><img class="leaf" src="https://res.cloudinary.com/datlowashere/image/upload/v1720451854/datlowashere/autumn/sv191p9kfkulul2dgsmj.png" alt=""/></div>
+    <div class="leaves"><img class="leaf" src="https://res.cloudinary.com/datlowashere/image/upload/v1720451855/datlowashere/autumn/o0uwad8ovytwgbfuvlks.png" alt=""/></div>
+    <div class="leaves"><img class="leaf" src="https://res.cloudinary.com/datlowashere/image/upload/v1720451855/datlowashere/autumn/cmfnktuqvhnozcfrkuqp.png" alt=""/></div>
+    <div class="leaves"><img class="leaf" src="https://res.cloudinary.com/datlowashere/image/upload/v1720451855/datlowashere/autumn/g88ky2p1e6rykmcmvnuy.png" alt=""/></div>
+    <div class="leaves"><img class="leaf" src="https://res.cloudinary.com/datlowashere/image/upload/v1720451855/datlowashere/autumn/sm9f4bfjnuz0kszc45iu.png" alt=""/></div>
+    <div class="leaves"><img class="leaf" src="https://res.cloudinary.com/datlowashere/image/upload/v1720451856/datlowashere/autumn/uatkcurdx6wyltnk09oh.png" alt=""/></div>
+    <div class="leaves"><img class="leaf" src="https://res.cloudinary.com/datlowashere/image/upload/v1720451855/datlowashere/autumn/gmrc3c0yjkqkwfagectx.png" alt=""/></div>
+
+    <div class="leaves"><img class="leaf" src="https://res.cloudinary.com/datlowashere/image/upload/v1720451854/datlowashere/autumn/wjmmga0hh0q4ptt05n45.png" alt=""/></div>
+    <div class="leaves"><img class="leaf" src="https://res.cloudinary.com/datlowashere/image/upload/v1720451854/datlowashere/autumn/zuruddkkdgtnxoqp113t.png" alt=""/></div>
+    <div class="leaves"><img class="leaf" src="https://res.cloudinary.com/datlowashere/image/upload/v1720451854/datlowashere/autumn/sv191p9kfkulul2dgsmj.png" alt=""/></div>
+    <div class="leaves"><img class="leaf" src="https://res.cloudinary.com/datlowashere/image/upload/v1720451855/datlowashere/autumn/o0uwad8ovytwgbfuvlks.png" alt=""/></div>
+    <div class="leaves"><img class="leaf" src="https://res.cloudinary.com/datlowashere/image/upload/v1720451855/datlowashere/autumn/cmfnktuqvhnozcfrkuqp.png" alt=""/></div>
+    <div class="leaves"><img class="leaf" src="https://res.cloudinary.com/datlowashere/image/upload/v1720451855/datlowashere/autumn/g88ky2p1e6rykmcmvnuy.png" alt=""/></div>
+    <div class="leaves"><img class="leaf" src="https://res.cloudinary.com/datlowashere/image/upload/v1720451855/datlowashere/autumn/sm9f4bfjnuz0kszc45iu.png" alt=""/></div>
+    <div class="leaves"><img class="leaf" src="https://res.cloudinary.com/datlowashere/image/upload/v1720451856/datlowashere/autumn/uatkcurdx6wyltnk09oh.png" alt=""/></div>
+    <div class="leaves"><img class="leaf" src="https://res.cloudinary.com/datlowashere/image/upload/v1720451855/datlowashere/autumn/gmrc3c0yjkqkwfagectx.png" alt=""/></div>
+    <div class="leaves"><img class="leaf" src="https://res.cloudinary.com/datlowashere/image/upload/v1720451855/datlowashere/autumn/g88ky2p1e6rykmcmvnuy.png" alt=""/></div>
+
+    <div class="leaves"><img class="leaf" src="https://res.cloudinary.com/datlowashere/image/upload/v1720451854/datlowashere/autumn/wjmmga0hh0q4ptt05n45.png" alt=""/></div>
+    <div class="leaves"><img class="leaf" src="https://res.cloudinary.com/datlowashere/image/upload/v1720451854/datlowashere/autumn/zuruddkkdgtnxoqp113t.png" alt=""/></div>
+    <div class="leaves"><img class="leaf" src="https://res.cloudinary.com/datlowashere/image/upload/v1720451854/datlowashere/autumn/sv191p9kfkulul2dgsmj.png" alt=""/></div>
+    <div class="leaves"><img class="leaf" src="https://res.cloudinary.com/datlowashere/image/upload/v1720451855/datlowashere/autumn/o0uwad8ovytwgbfuvlks.png" alt=""/></div>
+    <div class="leaves"><img class="leaf" src="https://res.cloudinary.com/datlowashere/image/upload/v1720451855/datlowashere/autumn/cmfnktuqvhnozcfrkuqp.png" alt=""/></div>
+    <div class="leaves"><img class="leaf" src="https://res.cloudinary.com/datlowashere/image/upload/v1720451855/datlowashere/autumn/g88ky2p1e6rykmcmvnuy.png" alt=""/></div>
+    <div class="leaves"><img class="leaf" src="https://res.cloudinary.com/datlowashere/image/upload/v1720451855/datlowashere/autumn/sm9f4bfjnuz0kszc45iu.png" alt=""/></div>
+    <div class="leaves"><img class="leaf" src="https://res.cloudinary.com/datlowashere/image/upload/v1720451855/datlowashere/autumn/cmfnktuqvhnozcfrkuqp.png" alt=""/></div>
+    <div class="leaves"><img class="leaf" src="https://res.cloudinary.com/datlowashere/image/upload/v1720451855/datlowashere/autumn/gmrc3c0yjkqkwfagectx.png" alt=""/></div>
+    <div class="leaves"><img class="leaf" src="https://res.cloudinary.com/datlowashere/image/upload/v1720451855/datlowashere/autumn/g88ky2p1e6rykmcmvnuy.png" alt=""/></div>
+        </div>
+	</foreignObject>
+</svg>        
