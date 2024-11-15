@@ -23,15 +23,17 @@
   </a> -->
 <!-- </p> -->
 
-## 🧰 Languages and Tools:
+## 🧰 Languages, Frameworks and Tools:
 <p align="center">
+  <img src="https://img.icons8.com/?size=100&id=7AFcZ2zirX6Y&format=png&color=000000" alt="dart" height="40" style="margin: 4px;">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="40" style="margin: 4px;">
   <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" height="40" style="margin: 4px;">
+  <img src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000" alt="flutter" height="40" style="margin: 4px;">
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" height="40" style="margin: 4px;">
   <img src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="NodeJS" height="40" style="margin: 4px;">
   <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" height="40" style="margin: 4px;">
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" height="40" style="margin: 4px;">
-  <img src="https://img.icons8.com/color/48/000000/android-studio.png" alt="Android Studio" height="40" style="margin: 4px;">
+  <img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" alt="MongoDB" height="40" style="margin: 4px;">
+  <img src="https://img.icons8.com/?size=100&id=04OFrkjznvcd&format=png&color=000000" alt="Android Studio" height="40" style="margin: 4px;">
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" height="40" style="margin: 4px;">   
 </p>
 
